@@ -1,4 +1,4 @@
 # TheLibrarian
-Uses LATO encryotion service
+Uses LATO based encryption service
 
 Designed for multi-rankBased-FileAccess
